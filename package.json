@@ -1,0 +1,23 @@
+{
+  "name": "bot4mieszi",
+  "version": "1.0.0",
+  "description": "Bot stworzony dla Mieszi na zamówienie. Bot by Mateq#0001.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateq",
+  "license": "ISC",
+  "dependencies": {
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "github:discordjs/discord.js",
+    "enmap": "^5.2.4",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.5.3",
+    "mysql": "^2.18.1",
+    "node-opus": "^0.3.3",
+    "random-token": "0.0.8",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^1.0.9"
+  }
+}
